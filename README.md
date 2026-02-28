@@ -1,11 +1,42 @@
-# Secure Expense Manager
+# Expense Manager
 
-This is a full-stack expense management system with authentication and security features.
+A secure full-stack expense management application that allows users to track income and expenses with authentication and protected routes.
 
-Built using:
+This project demonstrates backend architecture, authentication handling, and structured API development using modern JavaScript technologies.
+
+---
+
+## 🚀 Features
+
+- User Registration & Login (Authentication)
+- Secure password handling
+- Protected routes
+- Add, edit, and delete expenses
+- Income & expense tracking
+- RESTful API structure
+- Clean project architecture
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
 - HTML
 - CSS
 - JavaScript
+
+**Backend**
 - Node.js
-- Express
+- Express.js
+
+**Database**
 - MongoDB
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Project Structure
